@@ -1,0 +1,13 @@
+{
+  "name": "D-NoX",
+  "version": "1.0",
+  "description": "Diaspora Notifications Extension for Chrome",
+  "browser_action": {
+    "default_icon": "assets/icon.png",
+    "default_title": "Diaspora",
+    "popup": "popup.html"
+  },
+  "permissions": [
+    "http://"
+  ]
+}
